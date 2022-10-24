@@ -1,0 +1,105 @@
+body{
+    background-color: #f0cfcf;
+
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.ava{
+    width: 180px;
+    border-radius: 28px;
+}
+
+.expe {
+    background-color: rgb(237, 213, 205);
+    padding: 15px;
+    border: 5px solid none;
+    margin: 20px 10px;
+    border-radius: 25px;
+}
+
+.expe h2 {
+    text-align: center;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.skills {
+    background-color: rgb(237, 213, 205);
+    padding: 15px;
+    border: 5px solid none;
+    margin: 20px 10px;
+    border-radius: 25px;
+}
+
+.info{
+    background-color: rgb(237, 213, 205);
+    padding: 10px;
+    border: 10px solid none;
+    margin: 20px 10px;
+    border-radius: 25px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+    display: flex;
+}
+
+.contacts {
+    background-color: rgb(215, 188, 171);
+    padding: 15px;
+    border: 5px solid none;
+    margin: 20px 10px;
+    border-radius: 25px;
+}
+
+.info p {
+    text-align: justify;
+}
+
+.examples{
+    background-color: rgb(237, 213, 205);
+    padding: 15px;
+    border: 5px solid none;
+    margin: 20px 10px;
+    border-radius: 25px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 20px;
+}
+
+.table td:nth-child(2), td:nth-child(3) {
+    color: rgb(57, 55, 55);
+}
+
+ul li {
+    padding-bottom: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.info-text {
+    margin-left: 20px;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }

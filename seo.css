@@ -1,0 +1,14 @@
+body{
+    background-color: #f2ecec;
+
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body h1 {
+    text-align: center;
+}
+
+body h2 {
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: #f2ecec;
+
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+body h1 {
+    text-align: center;
+}
+
+body h2 {
+    text-align: center;
+}
+
+.inst11{
+    width: 300px;
+    border-radius: 20px;
+}
+
+.inst12{
+    width: 280px;
+    border-radius: 28px;
+}
+
+.inst13{
+    width: 230px;
+    border-radius: 28px;
+}
